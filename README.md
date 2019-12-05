@@ -1,5 +1,9 @@
 # 随机生成密码
 
+## 替代方案
+
+echo "alias rpwd='openssl rand -base64 16'" >> ~/.zshrc
+
 ## 编译命令
 
 ### 正式版编译方式
